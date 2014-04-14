@@ -1,2 +1,2 @@
 // My scripts
-$(document).foundation();
+ $(document).foundation();
